@@ -112,6 +112,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CPPMagic.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="TwoLinkedList.cpp" />
   </ItemGroup>
